@@ -1,194 +1,119 @@
+# Mubashira Zainab — Premium Personal Portfolio Website
 
-<div align="center">
+> **Mathematics-Driven Developer | AI & Data Enthusiast | Software Solutions**  
+> *"Where Mathematical Thinking Meets Intelligent Technology."*
 
-# MUBASHIRA ZAINAB
+A modern, responsive, production-ready personal portfolio built for **Mubashira Zainab**, combining mathematical rigor, artificial intelligence integration, data analytics, and community leadership.
 
-### Mathematics-Driven Developer | AI & Data Enthusiast | Software Solutions
-
-Building intelligent digital solutions through mathematics, technology, and innovation.
-
-[Portfolio](https://mubashira-zainab.github.io/My-Portfolio-Website/) ·
-[LinkedIn](https://www.linkedin.com/in/mubashira-zainab-a8a4a8354) ·
-[GitHub](https://github.com/mubashira-zainab)
-
-</div>
+Designed with a warm luxury palette: **Skin / Nude tones, Rich Espresso Brown, and Crisp Warm Off-White**.
 
 ---
 
-## PROFESSIONAL PROFILE
+## 🌟 Live Demo & Verified Profiles
 
-I am a technology-focused developer with an academic foundation in Mathematics and a strong interest in Artificial Intelligence, Data Analytics, Software Development, and intelligent automation.
-
-I enjoy combining analytical thinking with practical development to design and build solutions for real-world problems.
-
-My work and interests span AI-integrated applications, database-driven systems, web development, data visualization, and digital experiences.
-
-**Core professional focus:**
-- Mathematics & Analytical Problem Solving
-- Artificial Intelligence & Automation
-- Data Analytics & Business Intelligence
-- Full-Stack Web Development
-- Database Architecture & Management
-- Application Development & Digital Solutions
-
-## SERVICES & SOLUTIONS
-
-I work on developing practical digital solutions across different technology domains.
-
-| Service | Focus |
-|---|---|
-| AI Integration | AI chatbots, AI-powered applications and intelligent workflows |
-| Web Development | Responsive frontend interfaces and backend integration |
-| Data Analytics | Data processing, analysis, dashboards and visualization |
-| Database Solutions | Database design, SQL, relational systems and management |
-| Business Intelligence | Analytical dashboards and data-driven insights |
-| Automation | Python-based automation and AI-assisted workflows |
-| UI/UX & Graphic Design | Interface design, visual assets and digital branding |
-| Application Development | Flutter-based application development and Firebase integration |
-
-## TECHNICAL EXPERTISE
-
-### Frontend Development
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI/UX Fundamentals
-
-### Backend Development
-
-- Python
-- Flask
-- REST API Fundamentals
-- Database Integration
-- Server-Side Application Logic
-
-### AI & Intelligent Systems
-
-- Google AI Studio
-- Gemini AI Integration
-- Prompt Engineering
-- AI Chatbot Development
-- AI Agent Concepts
-- Workflow Automation
-
-### Data Analytics & Business Intelligence
-
-- Python
-- Pandas
-- Plotly
-- Microsoft Excel
-- Data Visualization
-- Analytical Problem Solving
-
-### Database Management
-
-- PostgreSQL
-- SQLite
-- SQL
-- Relational Database Design
-- ER Modeling
-- Database Normalization
-- Query Development
-
-### Mobile Application Development
-
-- Flutter
-- Dart
-- Firebase
-
-### Design & Creative Tools
-
-- Canva
-- Adobe Illustrator
-- Adobe Photoshop
-- UI/UX Design
-
-### Development Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Streamlit
-- Google AI Studio
-
-## FEATURED PROJECTS
-
-### AuditIQ
-**AI-Assisted Financial Auditing & Forecasting**
-
-Exploring intelligent systems for financial compliance auditing, analysis, and forecasting.
-
-Focus: AI Integration · Financial Analysis · Automation
-
-### SC&WMS
-**Supply Chain & Warehouse Management System**
-
-A database-driven business management solution covering supplier management, products, warehouses, inventory, orders, shipments, business intelligence, and reorder rules.
-
-Stack: Python · Flask · PostgreSQL · HTML · CSS
-
-### UniAssist AI
-**University Assistance Chatbot**
-
-An AI-integrated conversational application concept designed to provide university-related information and assistance.
-
-Stack: HTML · CSS · JavaScript · Google AI Studio
-
-## PROFESSIONAL INTERESTS
-
-- Artificial Intelligence & Intelligent Agents
-- Data Science & Analytics
-- Machine Learning
-- Mathematical Computing
-- Business Intelligence
-- Software Architecture
-- Digital Product Development
-- Technology Innovation
-
-## LEADERSHIP & COMMUNITY
-
-**General Secretary — ZGDC–CASPAM Chapter**
-
-Contributing to the developer community through collaboration, technology learning, knowledge sharing, and student-led innovation initiatives.
-
-Interested in exploring Google's developer technologies, AI tools, application development, and practical technology workshops.
-
-## EDUCATION
-
-**BS Mathematics**  
-CASPAM, Bahauddin Zakariya University (BZU), Multan
-
-Academic foundation in mathematical reasoning, analytical thinking, and problem-solving.
+- **GitHub Profile:** [github.com/mubashira-zainab](https://github.com/mubashira-zainab)
+- **LinkedIn Profile:** [linkedin.com/in/mubashira-zainab-a8a4a8354](https://www.linkedin.com/in/mubashira-zainab-a8a4a8354)
+- **Portfolio Repository:** [github.com/mubashira-zainab/MubashiraZainab](https://github.com/mubashira-zainab/MubashiraZainab)
+- **Original Portfolio:** [mubashira-zainab.github.io/My-Portfolio-Website](https://mubashira-zainab.github.io/My-Portfolio-Website/)
 
 ---
 
-## GITHUB ANALYTICS
+## 🎨 Theme & Visual Identity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashira-zainab&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashira-zainab&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mubashira-zainab&theme=github-dark-blue&hide_border=true)
-
-</div>
+- **Main Background:** `#120D0A` (Deep Espresso)
+- **Secondary Background:** `#1C140E` (Roasted Mocha)
+- **Card Background:** `#251B14` (Warm Dark Chocolate)
+- **Primary Text:** `#FDFBF7` (Crisp Warm Off-White)
+- **Secondary Text:** `#E3D5CA` (Soft Warm Cream)
+- **Accent Skin / Nude Tone:** `#E4C59E`
+- **Accent Caramel / Amber:** `#D4A373`
+- **Chestnut Brown:** `#8C624A`
 
 ---
 
-## CONNECT & COLLABORATE
+## 🗂️ Project Structure
 
-Open to connecting with developers, innovators, technology communities, and professionals working in AI, data, and software development.
+```text
+MubashiraZainab/
+├── index.html              # Main semantic HTML5 single-page application
+├── README.md               # Documentation and deployment guide
+└── assets/
+    ├── css/
+    │   └── style.css       # Custom styles, luxury color system, responsive design
+    ├── js/
+    │   └── main.js         # Interactive effects, typing animation, category filter
+    └── images/
+        └── favicon.svg     # Brand monogram (MZ & mathematical integral mark)
+```
 
-[LinkedIn](https://www.linkedin.com/in/mubashira-zainab-a8a4a8354) ·
-[Portfolio](https://mubashira-zainab.github.io/My-Portfolio-Website/) ·
-[GitHub](https://github.com/mubashira-zainab)
+---
 
-<div align="center">
+## 🚀 Key Features
 
-**Think Analytically. Build Intelligently. Innovate Continuously.**
+1. **Sticky Navigation:** Smooth scroll tracking, active section indicator, and accessible mobile toggle menu.
+2. **Dynamic Hero Section:** Animated text typing effect cycling through professional identities with custom mathematical visual composition.
+3. **Structured Technical Skills:** Filterable category pills (All, AI, Data, Backend, Databases, Frontend & Mobile, Design).
+4. **8 Professional Solutions & Capabilities:** Presenting practical areas of work without exaggerated agency claims.
+5. **Accurate Featured Projects:**
+   - **StockWise AI:** Personal AI-powered inventory & stock management solution.
+   - **AI SkillBridge:** Collaborative team project (Team: Future Builders) with focus on AI integration & research.
+   - **SC&WMS:** Supply chain & warehouse management system in Python, Flask, PostgreSQL.
+6. **Community Leadership:** Highlighting role as **General Secretary at ZGDC CASPAM Chapter (BZU Multan)** and active learning in **AI Baithak**.
+7. **Verified Academic Profile:** BS Mathematics, 5th Semester at CASPAM, BZU Multan.
+8. **Functional Contact Workflow:** Real-time pre-filled mailto mechanism using configurable variables (no fake form submissions).
+9. **Accessibility & Performance:** Semantic tags, zero heavy external dependencies, respect for `prefers-reduced-motion`, and fluid responsiveness across desktop, tablet, and mobile.
 
-</div>
+---
 
+## 💻 Local Development Setup
+
+No build step or Node.js package install is required.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mubashira-zainab/MubashiraZainab.git
+   cd MubashiraZainab
+   ```
+2. Open `index.html` in your favorite web browser:
+   - On Windows: double-click `index.html` or run:
+     ```powershell
+     Start-Process index.html
+     ```
+   - Or use VS Code Live Server extension.
+
+---
+
+## 🌐 Deployment Instructions
+
+### Option 1: GitHub Pages
+1. Go to repository **Settings** on GitHub (`https://github.com/mubashira-zainab/MubashiraZainab/settings`).
+2. Navigate to **Pages** in the left sidebar.
+3. Under **Branch**, select `main` and folder `/ (root)`.
+4. Click **Save**. Your site will be live at `https://mubashira-zainab.github.io/MubashiraZainab/`.
+
+### Option 2: Vercel Deployment
+1. Log in to [Vercel](https://vercel.com).
+2. Click **Add New...** &rarr; **Project**.
+3. Import the `mubashira-zainab/MubashiraZainab` GitHub repository.
+4. Keep the default settings (Framework Preset: *Other*, Root Directory: `./`).
+5. Click **Deploy**. Vercel will instantly generate a live production URL with SSL.
+
+---
+
+## 📝 Configuration Note
+
+To update the default email or contact links:
+- Open `assets/js/main.js` and modify the `CONFIG` object:
+  ```javascript
+  const CONFIG = {
+    email: "mubashirazainab2418@gmail.com",
+    github: "https://github.com/mubashira-zainab",
+    linkedin: "https://www.linkedin.com/in/mubashira-zainab-a8a4a8354",
+    // ...
+  };
+  ```
+
+---
+
+## 📜 License
+Distributed under the MIT License. See standard licensing for open projects.
